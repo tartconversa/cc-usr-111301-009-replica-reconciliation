@@ -1,0 +1,12 @@
+{
+  "source_root": "source",
+  "target_root": "target",
+  "root_manifest": "root.json",
+  "root_sha256": "e69c2107abd04d275dc6fd507478b0b81ee3a76b097f24607474fcd19299c342",
+  "chunk_bytes": 2,
+  "source_readonly": true,
+  "fault_injection_after_chunks": [
+    1
+  ],
+  "target_bad_object_policy": "quarantine_then_repair"
+}

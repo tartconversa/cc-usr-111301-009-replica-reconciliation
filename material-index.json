@@ -1,0 +1,27 @@
+[
+  {
+    "path": "fixtures/replication.json",
+    "sha256": "2d4a67d3819a24207323744bf25dca8aa975de773e129621d97a836e519c8975",
+    "size_bytes": 324
+  },
+  {
+    "path": "fixtures/source/objects/ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+    "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+    "size_bytes": 3
+  },
+  {
+    "path": "fixtures/source/parent.json",
+    "sha256": "49c996b2b7b1879c00ea051ba71ab86ff6eb0035f6d83fe95f63edd350675005",
+    "size_bytes": 270
+  },
+  {
+    "path": "fixtures/source/root.json",
+    "sha256": "e69c2107abd04d275dc6fd507478b0b81ee3a76b097f24607474fcd19299c342",
+    "size_bytes": 376
+  },
+  {
+    "path": "fixtures/target/objects/ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+    "sha256": "a52d159f262b2c6ddb724a61840befc36eb30c88877a4030b65cbe86298449c9",
+    "size_bytes": 3
+  }
+]

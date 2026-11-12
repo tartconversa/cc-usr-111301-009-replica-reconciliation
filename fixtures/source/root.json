@@ -1,0 +1,14 @@
+{
+  "manifest_id": "root",
+  "parent": {
+    "key": "parent.json",
+    "sha256": "49c996b2b7b1879c00ea051ba71ab86ff6eb0035f6d83fe95f63edd350675005"
+  },
+  "objects": [
+    {
+      "key": "objects/ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+      "bytes": 3,
+      "sha256": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad"
+    }
+  ]
+}
